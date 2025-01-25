@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.7 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.7">
+  <diagram name="Sivu-1" id="_v2ta-23IWTnJyOWGXrH">
+    <mxGraphModel dx="1186" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Tulos&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="344" y="960" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;tensorflow&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;matplotlib&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;tabulate&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;numpy&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;pandas&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;tensorflow hub&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="510" y="20" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3kpi-mmJgoaWg_0ww1m-6" target="c3kpi-mmJgoaWg_0ww1m-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Aloitus&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="82" y="50" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3kpi-mmJgoaWg_0ww1m-7" target="c3kpi-mmJgoaWg_0ww1m-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Kirjastojen valinta&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="34" y="360" width="236" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3kpi-mmJgoaWg_0ww1m-8" target="c3kpi-mmJgoaWg_0ww1m-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;CSV - tiedoston&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;lataaminen&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;(Pandas)&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="296" y="360" width="236" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3kpi-mmJgoaWg_0ww1m-10" target="c3kpi-mmJgoaWg_0ww1m-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Objektin&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;tunnistusmallin&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;lataaminen&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(TensorFlow Hub)&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="560" y="360" width="234" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.586;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c3kpi-mmJgoaWg_0ww1m-5" target="c3kpi-mmJgoaWg_0ww1m-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.594;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c3kpi-mmJgoaWg_0ww1m-5" target="c3kpi-mmJgoaWg_0ww1m-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3kpi-mmJgoaWg_0ww1m-22" target="c3kpi-mmJgoaWg_0ww1m-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Kuvan lukeminen sekä kuvan muuntaminen tensor - malliseksi&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(kuvan koko, pikselit)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="34" y="560" width="204" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3kpi-mmJgoaWg_0ww1m-31" target="c3kpi-mmJgoaWg_0ww1m-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-31" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Kuvan ajaminen mallinnuksen läpi tulosten saamiseksi&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="312" y="561" width="204" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c3kpi-mmJgoaWg_0ww1m-36" target="c3kpi-mmJgoaWg_0ww1m-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Tulosten&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;raja-arvot,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;todennäköisyyden&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;määrittäminen,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;tulosten&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;tallentaminen&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="560" y="562" width="234" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3kpi-mmJgoaWg_0ww1m-38" target="c3kpi-mmJgoaWg_0ww1m-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Kuvan visualisointi,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;tulosten&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;taulukointi&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="34" y="760" width="204" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c3kpi-mmJgoaWg_0ww1m-39" target="c3kpi-mmJgoaWg_0ww1m-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-39" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Materiaalitietojen&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;määrittäminen&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;sekä taulukointi&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="296" y="762" width="234" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c3kpi-mmJgoaWg_0ww1m-43" target="c3kpi-mmJgoaWg_0ww1m-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Todennäköisen materiaalin määrittäminen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="590" y="760" width="204" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="c3kpi-mmJgoaWg_0ww1m-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.63;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c3kpi-mmJgoaWg_0ww1m-5" target="c3kpi-mmJgoaWg_0ww1m-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
